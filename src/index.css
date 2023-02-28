@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+@font-face {
+  font-family: "Poppins";
+  src: url('../public/fonts/TYPo\ POPPINS/Poppins-Regular.ttf') format("truetype")
+}
+
+@font-face {
+  font-family: "Neue";
+  src: url('../public/fonts/TYPo\ NEUE\ MACHINA/NeueMachina-Regular.otf') format("truetype")
+}
+
+@font-face {
+  font-family: "Altone";
+  src: url('../public/fonts/altone/AltoneTrial-Regular.ttf') format("truetype")
+}
+
+
+body {
+  margin: 0;
+  /*font-family: 'Raleway', sans-serif;*/
+  font-family: "Altone";
+  color: #FAEFF1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(./svg/BACKGROUND.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+}
+
+html {
+  height: 100%;
+}
+
+/*
+@media screen and (max-width: 767px) {
+  body {
+
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(./svg/BACKGROUND@Phone.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #999;
+  }
+}
+*/
