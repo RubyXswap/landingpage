@@ -23,7 +23,13 @@ function Landing() {
             </label>
             <div class="nav-container">
               <ul class="nav-tabs">
-                <li class="nav-tab" href="https://medium.com/@rubyxswap">Blog</li>
+                <li class="nav-tab"><a
+              className="BlogLink"
+              target="_blank"
+              rel="noreferrer"
+              href="https://medium.com/@rubyxswap">
+               Blog </a>
+                </li>
                 <li class="nav-tab">Telegram</li>
                 <li class="nav-tab">Enter App</li>
               </ul>
