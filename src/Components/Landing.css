@@ -291,6 +291,7 @@
 
 .BlogLink {
   text-decoration: none;
+  color: inherit;
 }
 
 @-webkit-keyframes gradient {
