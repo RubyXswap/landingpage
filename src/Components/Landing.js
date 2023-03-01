@@ -61,7 +61,7 @@ function Landing() {
               className="tweeLink"
               target="_blank"
               rel="noreferrer"
-              href="https://twitter.com/intent/tweet?text=%F0%9F%8D%82+This+tweet+is+a+support+to+%40RubyX+%F0%9F%8D%82+%0A%0A+A+new+way+to+earn+real+yield+on+%40arbitrum+%28%F0%9F%92%99%2C%F0%9F%A7%A1%29+%0A%0A+Early+supporters+will+not+go+unnoticed+%0A%0A+https%3A%2F%2FRubyX.finance%2F"
+              href="https://ctt.ac/a_87g"
             >
               Get started
             </a>
