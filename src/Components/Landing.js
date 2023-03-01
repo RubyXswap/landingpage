@@ -24,7 +24,6 @@ function Landing() {
             <div class="nav-container">
               <ul class="nav-tabs">
                 <li class="nav-tab"><a
-              className="tweeLink"
               target="_blank"
               rel="noreferrer"
               href="https://medium.com/@rubyxswap">
